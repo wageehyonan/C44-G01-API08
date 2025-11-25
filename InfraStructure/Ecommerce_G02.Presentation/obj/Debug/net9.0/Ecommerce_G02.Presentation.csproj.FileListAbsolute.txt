@@ -1,0 +1,136 @@
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 1\Ecommerce_Soluation\InfraStructure\Ecommerce_G02.Presentation\bin\Debug\net9.0\Ecommerce_G02.Presentation.deps.json
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 1\Ecommerce_Soluation\InfraStructure\Ecommerce_G02.Presentation\bin\Debug\net9.0\Ecommerce_G02.Presentation.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 1\Ecommerce_Soluation\InfraStructure\Ecommerce_G02.Presentation\bin\Debug\net9.0\Ecommerce_G02.Presentation.pdb
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 1\Ecommerce_Soluation\InfraStructure\Ecommerce_G02.Presentation\bin\Debug\net9.0\Ecommerce_G02.Abstractions.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 1\Ecommerce_Soluation\InfraStructure\Ecommerce_G02.Presentation\bin\Debug\net9.0\Ecommerce_G02.Shared.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 1\Ecommerce_Soluation\InfraStructure\Ecommerce_G02.Presentation\bin\Debug\net9.0\Ecommerce_G02.Abstractions.pdb
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 1\Ecommerce_Soluation\InfraStructure\Ecommerce_G02.Presentation\bin\Debug\net9.0\Ecommerce_G02.Shared.pdb
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 1\Ecommerce_Soluation\InfraStructure\Ecommerce_G02.Presentation\obj\Debug\net9.0\Ecommerce_G02.Presentation.csproj.AssemblyReference.cache
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 1\Ecommerce_Soluation\InfraStructure\Ecommerce_G02.Presentation\obj\Debug\net9.0\Ecommerce_G02.Presentation.GeneratedMSBuildEditorConfig.editorconfig
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 1\Ecommerce_Soluation\InfraStructure\Ecommerce_G02.Presentation\obj\Debug\net9.0\Ecommerce_G02.Presentation.AssemblyInfoInputs.cache
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 1\Ecommerce_Soluation\InfraStructure\Ecommerce_G02.Presentation\obj\Debug\net9.0\Ecommerce_G02.Presentation.AssemblyInfo.cs
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 1\Ecommerce_Soluation\InfraStructure\Ecommerce_G02.Presentation\obj\Debug\net9.0\Ecommerce_G02.Presentation.csproj.CoreCompileInputs.cache
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 1\Ecommerce_Soluation\InfraStructure\Ecommerce_G02.Presentation\obj\Debug\net9.0\Ecommerc.8B166F08.Up2Date
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 1\Ecommerce_Soluation\InfraStructure\Ecommerce_G02.Presentation\obj\Debug\net9.0\Ecommerce_G02.Presentation.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 1\Ecommerce_Soluation\InfraStructure\Ecommerce_G02.Presentation\obj\Debug\net9.0\refint\Ecommerce_G02.Presentation.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 1\Ecommerce_Soluation\InfraStructure\Ecommerce_G02.Presentation\obj\Debug\net9.0\Ecommerce_G02.Presentation.pdb
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 1\Ecommerce_Soluation\InfraStructure\Ecommerce_G02.Presentation\obj\Debug\net9.0\ref\Ecommerce_G02.Presentation.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 2\Ecommerce_Soluation\InfraStructure\Ecommerce_G02.Presentation\bin\Debug\net9.0\Ecommerce_G02.Presentation.deps.json
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 2\Ecommerce_Soluation\InfraStructure\Ecommerce_G02.Presentation\bin\Debug\net9.0\Ecommerce_G02.Presentation.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 2\Ecommerce_Soluation\InfraStructure\Ecommerce_G02.Presentation\bin\Debug\net9.0\Ecommerce_G02.Presentation.pdb
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 2\Ecommerce_Soluation\InfraStructure\Ecommerce_G02.Presentation\bin\Debug\net9.0\Ecommerce_G02.Abstractions.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 2\Ecommerce_Soluation\InfraStructure\Ecommerce_G02.Presentation\bin\Debug\net9.0\Ecommerce_G02.Shared.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 2\Ecommerce_Soluation\InfraStructure\Ecommerce_G02.Presentation\bin\Debug\net9.0\Ecommerce_G02.Abstractions.pdb
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 2\Ecommerce_Soluation\InfraStructure\Ecommerce_G02.Presentation\bin\Debug\net9.0\Ecommerce_G02.Shared.pdb
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 2\Ecommerce_Soluation\InfraStructure\Ecommerce_G02.Presentation\obj\Debug\net9.0\Ecommerce_G02.Presentation.csproj.AssemblyReference.cache
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 2\Ecommerce_Soluation\InfraStructure\Ecommerce_G02.Presentation\obj\Debug\net9.0\Ecommerce_G02.Presentation.GeneratedMSBuildEditorConfig.editorconfig
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 2\Ecommerce_Soluation\InfraStructure\Ecommerce_G02.Presentation\obj\Debug\net9.0\Ecommerce_G02.Presentation.AssemblyInfoInputs.cache
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 2\Ecommerce_Soluation\InfraStructure\Ecommerce_G02.Presentation\obj\Debug\net9.0\Ecommerce_G02.Presentation.AssemblyInfo.cs
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 2\Ecommerce_Soluation\InfraStructure\Ecommerce_G02.Presentation\obj\Debug\net9.0\Ecommerce_G02.Presentation.csproj.CoreCompileInputs.cache
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 2\Ecommerce_Soluation\InfraStructure\Ecommerce_G02.Presentation\obj\Debug\net9.0\Ecommerc.8B166F08.Up2Date
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 2\Ecommerce_Soluation\InfraStructure\Ecommerce_G02.Presentation\obj\Debug\net9.0\Ecommerce_G02.Presentation.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 2\Ecommerce_Soluation\InfraStructure\Ecommerce_G02.Presentation\obj\Debug\net9.0\refint\Ecommerce_G02.Presentation.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 2\Ecommerce_Soluation\InfraStructure\Ecommerce_G02.Presentation\obj\Debug\net9.0\Ecommerce_G02.Presentation.pdb
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 2\Ecommerce_Soluation\InfraStructure\Ecommerce_G02.Presentation\obj\Debug\net9.0\ref\Ecommerce_G02.Presentation.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 3\Ecommerce_Soluation\InfraStructure\Ecommerce_G02.Presentation\bin\Debug\net9.0\Ecommerce_G02.Presentation.deps.json
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 3\Ecommerce_Soluation\InfraStructure\Ecommerce_G02.Presentation\bin\Debug\net9.0\Ecommerce_G02.Presentation.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 3\Ecommerce_Soluation\InfraStructure\Ecommerce_G02.Presentation\bin\Debug\net9.0\Ecommerce_G02.Presentation.pdb
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 3\Ecommerce_Soluation\InfraStructure\Ecommerce_G02.Presentation\bin\Debug\net9.0\Ecommerce_G02.Abstractions.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 3\Ecommerce_Soluation\InfraStructure\Ecommerce_G02.Presentation\bin\Debug\net9.0\Ecommerce_G02.Shared.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 3\Ecommerce_Soluation\InfraStructure\Ecommerce_G02.Presentation\bin\Debug\net9.0\Ecommerce_G02.Abstractions.pdb
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 3\Ecommerce_Soluation\InfraStructure\Ecommerce_G02.Presentation\bin\Debug\net9.0\Ecommerce_G02.Shared.pdb
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 3\Ecommerce_Soluation\InfraStructure\Ecommerce_G02.Presentation\obj\Debug\net9.0\Ecommerce_G02.Presentation.csproj.AssemblyReference.cache
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 3\Ecommerce_Soluation\InfraStructure\Ecommerce_G02.Presentation\obj\Debug\net9.0\Ecommerce_G02.Presentation.GeneratedMSBuildEditorConfig.editorconfig
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 3\Ecommerce_Soluation\InfraStructure\Ecommerce_G02.Presentation\obj\Debug\net9.0\Ecommerce_G02.Presentation.AssemblyInfoInputs.cache
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 3\Ecommerce_Soluation\InfraStructure\Ecommerce_G02.Presentation\obj\Debug\net9.0\Ecommerce_G02.Presentation.AssemblyInfo.cs
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 3\Ecommerce_Soluation\InfraStructure\Ecommerce_G02.Presentation\obj\Debug\net9.0\Ecommerce_G02.Presentation.csproj.CoreCompileInputs.cache
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 3\Ecommerce_Soluation\InfraStructure\Ecommerce_G02.Presentation\obj\Debug\net9.0\Ecommerc.8B166F08.Up2Date
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 3\Ecommerce_Soluation\InfraStructure\Ecommerce_G02.Presentation\obj\Debug\net9.0\Ecommerce_G02.Presentation.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 3\Ecommerce_Soluation\InfraStructure\Ecommerce_G02.Presentation\obj\Debug\net9.0\refint\Ecommerce_G02.Presentation.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 3\Ecommerce_Soluation\InfraStructure\Ecommerce_G02.Presentation\obj\Debug\net9.0\Ecommerce_G02.Presentation.pdb
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 3\Ecommerce_Soluation\InfraStructure\Ecommerce_G02.Presentation\obj\Debug\net9.0\ref\Ecommerce_G02.Presentation.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 4\Ecommerce_Soluation\InfraStructure\Ecommerce_G02.Presentation\bin\Debug\net9.0\Ecommerce_G02.Presentation.deps.json
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 4\Ecommerce_Soluation\InfraStructure\Ecommerce_G02.Presentation\bin\Debug\net9.0\Ecommerce_G02.Presentation.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 4\Ecommerce_Soluation\InfraStructure\Ecommerce_G02.Presentation\bin\Debug\net9.0\Ecommerce_G02.Presentation.pdb
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 4\Ecommerce_Soluation\InfraStructure\Ecommerce_G02.Presentation\bin\Debug\net9.0\Ecommerce_G02.Abstractions.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 4\Ecommerce_Soluation\InfraStructure\Ecommerce_G02.Presentation\bin\Debug\net9.0\Ecommerce_G02.Shared.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 4\Ecommerce_Soluation\InfraStructure\Ecommerce_G02.Presentation\bin\Debug\net9.0\Ecommerce_G02.Abstractions.pdb
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 4\Ecommerce_Soluation\InfraStructure\Ecommerce_G02.Presentation\bin\Debug\net9.0\Ecommerce_G02.Shared.pdb
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 4\Ecommerce_Soluation\InfraStructure\Ecommerce_G02.Presentation\obj\Debug\net9.0\Ecommerce_G02.Presentation.csproj.AssemblyReference.cache
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 4\Ecommerce_Soluation\InfraStructure\Ecommerce_G02.Presentation\obj\Debug\net9.0\Ecommerce_G02.Presentation.GeneratedMSBuildEditorConfig.editorconfig
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 4\Ecommerce_Soluation\InfraStructure\Ecommerce_G02.Presentation\obj\Debug\net9.0\Ecommerce_G02.Presentation.AssemblyInfoInputs.cache
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 4\Ecommerce_Soluation\InfraStructure\Ecommerce_G02.Presentation\obj\Debug\net9.0\Ecommerce_G02.Presentation.AssemblyInfo.cs
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 4\Ecommerce_Soluation\InfraStructure\Ecommerce_G02.Presentation\obj\Debug\net9.0\Ecommerce_G02.Presentation.csproj.CoreCompileInputs.cache
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 4\Ecommerce_Soluation\InfraStructure\Ecommerce_G02.Presentation\obj\Debug\net9.0\Ecommerc.8B166F08.Up2Date
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 4\Ecommerce_Soluation\InfraStructure\Ecommerce_G02.Presentation\obj\Debug\net9.0\Ecommerce_G02.Presentation.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 4\Ecommerce_Soluation\InfraStructure\Ecommerce_G02.Presentation\obj\Debug\net9.0\refint\Ecommerce_G02.Presentation.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 4\Ecommerce_Soluation\InfraStructure\Ecommerce_G02.Presentation\obj\Debug\net9.0\Ecommerce_G02.Presentation.pdb
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 4\Ecommerce_Soluation\InfraStructure\Ecommerce_G02.Presentation\obj\Debug\net9.0\ref\Ecommerce_G02.Presentation.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 5\Ecommerce_Soluation\InfraStructure\Ecommerce_G02.Presentation\bin\Debug\net9.0\Ecommerce_G02.Presentation.deps.json
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 5\Ecommerce_Soluation\InfraStructure\Ecommerce_G02.Presentation\bin\Debug\net9.0\Ecommerce_G02.Presentation.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 5\Ecommerce_Soluation\InfraStructure\Ecommerce_G02.Presentation\bin\Debug\net9.0\Ecommerce_G02.Presentation.pdb
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 5\Ecommerce_Soluation\InfraStructure\Ecommerce_G02.Presentation\bin\Debug\net9.0\Ecommerce_G02.Abstractions.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 5\Ecommerce_Soluation\InfraStructure\Ecommerce_G02.Presentation\bin\Debug\net9.0\Ecommerce_G02.Shared.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 5\Ecommerce_Soluation\InfraStructure\Ecommerce_G02.Presentation\bin\Debug\net9.0\Ecommerce_G02.Abstractions.pdb
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 5\Ecommerce_Soluation\InfraStructure\Ecommerce_G02.Presentation\bin\Debug\net9.0\Ecommerce_G02.Shared.pdb
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 5\Ecommerce_Soluation\InfraStructure\Ecommerce_G02.Presentation\obj\Debug\net9.0\Ecommerce_G02.Presentation.csproj.AssemblyReference.cache
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 5\Ecommerce_Soluation\InfraStructure\Ecommerce_G02.Presentation\obj\Debug\net9.0\Ecommerce_G02.Presentation.GeneratedMSBuildEditorConfig.editorconfig
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 5\Ecommerce_Soluation\InfraStructure\Ecommerce_G02.Presentation\obj\Debug\net9.0\Ecommerce_G02.Presentation.AssemblyInfoInputs.cache
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 5\Ecommerce_Soluation\InfraStructure\Ecommerce_G02.Presentation\obj\Debug\net9.0\Ecommerce_G02.Presentation.AssemblyInfo.cs
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 5\Ecommerce_Soluation\InfraStructure\Ecommerce_G02.Presentation\obj\Debug\net9.0\Ecommerce_G02.Presentation.csproj.CoreCompileInputs.cache
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 5\Ecommerce_Soluation\InfraStructure\Ecommerce_G02.Presentation\obj\Debug\net9.0\Ecommerc.8B166F08.Up2Date
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 5\Ecommerce_Soluation\InfraStructure\Ecommerce_G02.Presentation\obj\Debug\net9.0\Ecommerce_G02.Presentation.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 5\Ecommerce_Soluation\InfraStructure\Ecommerce_G02.Presentation\obj\Debug\net9.0\refint\Ecommerce_G02.Presentation.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 5\Ecommerce_Soluation\InfraStructure\Ecommerce_G02.Presentation\obj\Debug\net9.0\Ecommerce_G02.Presentation.pdb
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 5\Ecommerce_Soluation\InfraStructure\Ecommerce_G02.Presentation\obj\Debug\net9.0\ref\Ecommerce_G02.Presentation.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 6\Ecommerce_Soluation\InfraStructure\Ecommerce_G02.Presentation\bin\Debug\net9.0\Ecommerce_G02.Presentation.deps.json
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 6\Ecommerce_Soluation\InfraStructure\Ecommerce_G02.Presentation\bin\Debug\net9.0\Ecommerce_G02.Presentation.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 6\Ecommerce_Soluation\InfraStructure\Ecommerce_G02.Presentation\bin\Debug\net9.0\Ecommerce_G02.Presentation.pdb
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 6\Ecommerce_Soluation\InfraStructure\Ecommerce_G02.Presentation\bin\Debug\net9.0\Ecommerce_G02.Abstractions.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 6\Ecommerce_Soluation\InfraStructure\Ecommerce_G02.Presentation\bin\Debug\net9.0\Ecommerce_G02.Shared.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 6\Ecommerce_Soluation\InfraStructure\Ecommerce_G02.Presentation\bin\Debug\net9.0\Ecommerce_G02.Abstractions.pdb
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 6\Ecommerce_Soluation\InfraStructure\Ecommerce_G02.Presentation\bin\Debug\net9.0\Ecommerce_G02.Shared.pdb
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 6\Ecommerce_Soluation\InfraStructure\Ecommerce_G02.Presentation\obj\Debug\net9.0\Ecommerce_G02.Presentation.csproj.AssemblyReference.cache
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 6\Ecommerce_Soluation\InfraStructure\Ecommerce_G02.Presentation\obj\Debug\net9.0\Ecommerce_G02.Presentation.GeneratedMSBuildEditorConfig.editorconfig
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 6\Ecommerce_Soluation\InfraStructure\Ecommerce_G02.Presentation\obj\Debug\net9.0\Ecommerce_G02.Presentation.AssemblyInfoInputs.cache
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 6\Ecommerce_Soluation\InfraStructure\Ecommerce_G02.Presentation\obj\Debug\net9.0\Ecommerce_G02.Presentation.AssemblyInfo.cs
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 6\Ecommerce_Soluation\InfraStructure\Ecommerce_G02.Presentation\obj\Debug\net9.0\Ecommerce_G02.Presentation.csproj.CoreCompileInputs.cache
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 6\Ecommerce_Soluation\InfraStructure\Ecommerce_G02.Presentation\obj\Debug\net9.0\Ecommerc.8B166F08.Up2Date
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 6\Ecommerce_Soluation\InfraStructure\Ecommerce_G02.Presentation\obj\Debug\net9.0\Ecommerce_G02.Presentation.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 6\Ecommerce_Soluation\InfraStructure\Ecommerce_G02.Presentation\obj\Debug\net9.0\refint\Ecommerce_G02.Presentation.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 6\Ecommerce_Soluation\InfraStructure\Ecommerce_G02.Presentation\obj\Debug\net9.0\Ecommerce_G02.Presentation.pdb
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 6\Ecommerce_Soluation\InfraStructure\Ecommerce_G02.Presentation\obj\Debug\net9.0\ref\Ecommerce_G02.Presentation.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 7\Ecommerce_Soluation\InfraStructure\Ecommerce_G02.Presentation\bin\Debug\net9.0\Ecommerce_G02.Presentation.deps.json
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 7\Ecommerce_Soluation\InfraStructure\Ecommerce_G02.Presentation\bin\Debug\net9.0\Ecommerce_G02.Presentation.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 7\Ecommerce_Soluation\InfraStructure\Ecommerce_G02.Presentation\bin\Debug\net9.0\Ecommerce_G02.Presentation.pdb
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 7\Ecommerce_Soluation\InfraStructure\Ecommerce_G02.Presentation\bin\Debug\net9.0\Ecommerce_G02.Abstractions.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 7\Ecommerce_Soluation\InfraStructure\Ecommerce_G02.Presentation\bin\Debug\net9.0\Ecommerce_G02.Shared.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 7\Ecommerce_Soluation\InfraStructure\Ecommerce_G02.Presentation\bin\Debug\net9.0\Ecommerce_G02.Abstractions.pdb
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 7\Ecommerce_Soluation\InfraStructure\Ecommerce_G02.Presentation\bin\Debug\net9.0\Ecommerce_G02.Shared.pdb
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 7\Ecommerce_Soluation\InfraStructure\Ecommerce_G02.Presentation\obj\Debug\net9.0\Ecommerce_G02.Presentation.csproj.AssemblyReference.cache
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 7\Ecommerce_Soluation\InfraStructure\Ecommerce_G02.Presentation\obj\Debug\net9.0\Ecommerce_G02.Presentation.GeneratedMSBuildEditorConfig.editorconfig
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 7\Ecommerce_Soluation\InfraStructure\Ecommerce_G02.Presentation\obj\Debug\net9.0\Ecommerce_G02.Presentation.AssemblyInfoInputs.cache
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 7\Ecommerce_Soluation\InfraStructure\Ecommerce_G02.Presentation\obj\Debug\net9.0\Ecommerce_G02.Presentation.AssemblyInfo.cs
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 7\Ecommerce_Soluation\InfraStructure\Ecommerce_G02.Presentation\obj\Debug\net9.0\Ecommerce_G02.Presentation.csproj.CoreCompileInputs.cache
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 7\Ecommerce_Soluation\InfraStructure\Ecommerce_G02.Presentation\obj\Debug\net9.0\Ecommerc.8B166F08.Up2Date
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 7\Ecommerce_Soluation\InfraStructure\Ecommerce_G02.Presentation\obj\Debug\net9.0\Ecommerce_G02.Presentation.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 7\Ecommerce_Soluation\InfraStructure\Ecommerce_G02.Presentation\obj\Debug\net9.0\refint\Ecommerce_G02.Presentation.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 7\Ecommerce_Soluation\InfraStructure\Ecommerce_G02.Presentation\obj\Debug\net9.0\Ecommerce_G02.Presentation.pdb
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 7\Ecommerce_Soluation\InfraStructure\Ecommerce_G02.Presentation\obj\Debug\net9.0\ref\Ecommerce_G02.Presentation.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Final\Ecommerce_Soluation\InfraStructure\Ecommerce_G02.Presentation\bin\Debug\net9.0\Ecommerce_G02.Presentation.deps.json
+E:\ASP.NET Course\Asp.NET Core Web APIs\Final\Ecommerce_Soluation\InfraStructure\Ecommerce_G02.Presentation\bin\Debug\net9.0\Ecommerce_G02.Presentation.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Final\Ecommerce_Soluation\InfraStructure\Ecommerce_G02.Presentation\bin\Debug\net9.0\Ecommerce_G02.Presentation.pdb
+E:\ASP.NET Course\Asp.NET Core Web APIs\Final\Ecommerce_Soluation\InfraStructure\Ecommerce_G02.Presentation\bin\Debug\net9.0\Ecommerce_G02.Abstractions.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Final\Ecommerce_Soluation\InfraStructure\Ecommerce_G02.Presentation\bin\Debug\net9.0\Ecommerce_G02.Shared.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Final\Ecommerce_Soluation\InfraStructure\Ecommerce_G02.Presentation\bin\Debug\net9.0\Ecommerce_G02.Abstractions.pdb
+E:\ASP.NET Course\Asp.NET Core Web APIs\Final\Ecommerce_Soluation\InfraStructure\Ecommerce_G02.Presentation\bin\Debug\net9.0\Ecommerce_G02.Shared.pdb
+E:\ASP.NET Course\Asp.NET Core Web APIs\Final\Ecommerce_Soluation\InfraStructure\Ecommerce_G02.Presentation\obj\Debug\net9.0\Ecommerce_G02.Presentation.csproj.AssemblyReference.cache
+E:\ASP.NET Course\Asp.NET Core Web APIs\Final\Ecommerce_Soluation\InfraStructure\Ecommerce_G02.Presentation\obj\Debug\net9.0\Ecommerce_G02.Presentation.GeneratedMSBuildEditorConfig.editorconfig
+E:\ASP.NET Course\Asp.NET Core Web APIs\Final\Ecommerce_Soluation\InfraStructure\Ecommerce_G02.Presentation\obj\Debug\net9.0\Ecommerce_G02.Presentation.AssemblyInfoInputs.cache
+E:\ASP.NET Course\Asp.NET Core Web APIs\Final\Ecommerce_Soluation\InfraStructure\Ecommerce_G02.Presentation\obj\Debug\net9.0\Ecommerce_G02.Presentation.AssemblyInfo.cs
+E:\ASP.NET Course\Asp.NET Core Web APIs\Final\Ecommerce_Soluation\InfraStructure\Ecommerce_G02.Presentation\obj\Debug\net9.0\Ecommerce_G02.Presentation.csproj.CoreCompileInputs.cache
+E:\ASP.NET Course\Asp.NET Core Web APIs\Final\Ecommerce_Soluation\InfraStructure\Ecommerce_G02.Presentation\obj\Debug\net9.0\Ecommerc.8B166F08.Up2Date
+E:\ASP.NET Course\Asp.NET Core Web APIs\Final\Ecommerce_Soluation\InfraStructure\Ecommerce_G02.Presentation\obj\Debug\net9.0\Ecommerce_G02.Presentation.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Final\Ecommerce_Soluation\InfraStructure\Ecommerce_G02.Presentation\obj\Debug\net9.0\refint\Ecommerce_G02.Presentation.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Final\Ecommerce_Soluation\InfraStructure\Ecommerce_G02.Presentation\obj\Debug\net9.0\Ecommerce_G02.Presentation.pdb
+E:\ASP.NET Course\Asp.NET Core Web APIs\Final\Ecommerce_Soluation\InfraStructure\Ecommerce_G02.Presentation\obj\Debug\net9.0\ref\Ecommerce_G02.Presentation.dll

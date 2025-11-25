@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Core\Ecommerce_G02.Abstractions\Ecommerce_G02.Abstractions.csproj" />
+  </ItemGroup>
+
+	<ItemGroup>
+		<FrameworkReference Include="MicroSoft.AspNetCore.App"></FrameworkReference> 
+	</ItemGroup>
+	
+</Project>
