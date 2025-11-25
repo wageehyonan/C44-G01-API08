@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Ecommerce_G02.Abstractions/1.0.0": {
+        "dependencies": {
+          "Ecommerce_G02.Shared": "1.0.0"
+        },
+        "runtime": {
+          "Ecommerce_G02.Abstractions.dll": {}
+        }
+      },
+      "Ecommerce_G02.Shared/1.0.0": {
+        "runtime": {
+          "Ecommerce_G02.Shared.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ecommerce_G02.Abstractions/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Ecommerce_G02.Shared/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
