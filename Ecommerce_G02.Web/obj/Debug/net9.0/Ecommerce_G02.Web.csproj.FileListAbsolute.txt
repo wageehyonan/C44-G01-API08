@@ -1,0 +1,1343 @@
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 1\Ecommerce_Soluation\Ecommerce_G02.Web\obj\Debug\net9.0\Ecommerce_G02.Web.csproj.AssemblyReference.cache
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 1\Ecommerce_Soluation\Ecommerce_G02.Web\obj\Debug\net9.0\rpswa.dswa.cache.json
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 1\Ecommerce_Soluation\Ecommerce_G02.Web\obj\Debug\net9.0\Ecommerce_G02.Web.GeneratedMSBuildEditorConfig.editorconfig
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 1\Ecommerce_Soluation\Ecommerce_G02.Web\obj\Debug\net9.0\Ecommerce_G02.Web.AssemblyInfoInputs.cache
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 1\Ecommerce_Soluation\Ecommerce_G02.Web\obj\Debug\net9.0\Ecommerce_G02.Web.AssemblyInfo.cs
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 1\Ecommerce_Soluation\Ecommerce_G02.Web\obj\Debug\net9.0\Ecommerce_G02.Web.csproj.CoreCompileInputs.cache
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 1\Ecommerce_Soluation\Ecommerce_G02.Web\obj\Debug\net9.0\Ecommerce_G02.Web.MvcApplicationPartsAssemblyInfo.cache
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 1\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\appsettings.Development.json
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 1\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\appsettings.json
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 1\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Ecommerce_G02.Web.staticwebassets.endpoints.json
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 1\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Ecommerce_G02.Web.exe
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 1\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Ecommerce_G02.Web.deps.json
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 1\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Ecommerce_G02.Web.runtimeconfig.json
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 1\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Ecommerce_G02.Web.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 1\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Ecommerce_G02.Web.pdb
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 1\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Azure.Core.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 1\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Azure.Identity.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 1\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 1\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 1\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 1\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 1\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 1\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 1\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 1\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 1\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 1\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 1\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 1\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 1\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 1\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 1\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 1\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Microsoft.OpenApi.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 1\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 1\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 1\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\System.ClientModel.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 1\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 1\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\System.Drawing.Common.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 1\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 1\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\System.Memory.Data.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 1\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\System.Runtime.Caching.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 1\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 1\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\System.Security.Permissions.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 1\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\System.Windows.Extensions.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 1\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 1\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 1\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 1\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 1\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 1\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 1\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 1\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 1\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 1\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 1\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 1\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 1\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Ecommerce_G02.Abstractions.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 1\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Ecommerce_G02.Domain.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 1\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Ecommerce_G02.Presentation.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 1\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Ecommerce_G02.Presistence.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 1\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Ecommerce_G02.Services.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 1\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Ecommerce_G02.Shared.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 1\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Ecommerce_G02.Presentation.pdb
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 1\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Ecommerce_G02.Presistence.pdb
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 1\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Ecommerce_G02.Abstractions.pdb
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 1\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Ecommerce_G02.Domain.pdb
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 1\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Ecommerce_G02.Services.pdb
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 1\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Ecommerce_G02.Shared.pdb
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 1\Ecommerce_Soluation\Ecommerce_G02.Web\obj\Debug\net9.0\rjimswa.dswa.cache.json
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 1\Ecommerce_Soluation\Ecommerce_G02.Web\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 1\Ecommerce_Soluation\Ecommerce_G02.Web\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 1\Ecommerce_Soluation\Ecommerce_G02.Web\obj\Debug\net9.0\scopedcss\bundle\Ecommerce_G02.Web.styles.css
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 1\Ecommerce_Soluation\Ecommerce_G02.Web\obj\Debug\net9.0\staticwebassets.build.json
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 1\Ecommerce_Soluation\Ecommerce_G02.Web\obj\Debug\net9.0\staticwebassets.build.json.cache
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 1\Ecommerce_Soluation\Ecommerce_G02.Web\obj\Debug\net9.0\staticwebassets.development.json
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 1\Ecommerce_Soluation\Ecommerce_G02.Web\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 1\Ecommerce_Soluation\Ecommerce_G02.Web\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 1\Ecommerce_Soluation\Ecommerce_G02.Web\obj\Debug\net9.0\Ecommerc.2D8A542C.Up2Date
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 1\Ecommerce_Soluation\Ecommerce_G02.Web\obj\Debug\net9.0\Ecommerce_G02.Web.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 1\Ecommerce_Soluation\Ecommerce_G02.Web\obj\Debug\net9.0\refint\Ecommerce_G02.Web.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 1\Ecommerce_Soluation\Ecommerce_G02.Web\obj\Debug\net9.0\Ecommerce_G02.Web.pdb
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 1\Ecommerce_Soluation\Ecommerce_G02.Web\obj\Debug\net9.0\Ecommerce_G02.Web.genruntimeconfig.cache
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 1\Ecommerce_Soluation\Ecommerce_G02.Web\obj\Debug\net9.0\ref\Ecommerce_G02.Web.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 1\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Humanizer.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 1\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 1\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 1\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 1\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 1\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 1\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 1\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 1\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 1\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 1\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Mono.TextTemplating.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 1\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\System.CodeDom.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 1\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 1\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\System.Composition.Convention.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 1\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\System.Composition.Hosting.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 1\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\System.Composition.Runtime.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 1\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\System.Composition.TypedParts.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 1\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 1\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 1\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 1\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 1\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 1\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 1\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 1\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 1\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 1\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 1\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 1\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 1\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 1\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 1\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 1\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 1\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 1\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 1\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 1\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 1\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 1\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 1\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 1\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 1\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 1\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 1\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 1\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 1\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 1\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 1\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 1\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 1\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 1\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 1\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 1\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 1\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 1\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 1\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 1\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 1\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 1\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 1\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 1\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 1\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 1\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 1\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 1\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 1\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 1\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 1\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 1\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 1\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 1\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 1\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 1\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 1\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 1\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 1\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 1\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 1\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 1\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 1\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 1\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 1\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 1\Ecommerce_Soluation\Ecommerce_G02.Web\obj\Debug\net9.0\Ecommerce_G02.Web.MvcApplicationPartsAssemblyInfo.cs
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 2\Ecommerce_Soluation\Ecommerce_G02.Web\obj\Debug\net9.0\Ecommerce_G02.Web.csproj.AssemblyReference.cache
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 2\Ecommerce_Soluation\Ecommerce_G02.Web\obj\Debug\net9.0\rpswa.dswa.cache.json
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 2\Ecommerce_Soluation\Ecommerce_G02.Web\obj\Debug\net9.0\Ecommerce_G02.Web.GeneratedMSBuildEditorConfig.editorconfig
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 2\Ecommerce_Soluation\Ecommerce_G02.Web\obj\Debug\net9.0\Ecommerce_G02.Web.AssemblyInfoInputs.cache
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 2\Ecommerce_Soluation\Ecommerce_G02.Web\obj\Debug\net9.0\Ecommerce_G02.Web.AssemblyInfo.cs
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 2\Ecommerce_Soluation\Ecommerce_G02.Web\obj\Debug\net9.0\Ecommerce_G02.Web.csproj.CoreCompileInputs.cache
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 2\Ecommerce_Soluation\Ecommerce_G02.Web\obj\Debug\net9.0\Ecommerce_G02.Web.MvcApplicationPartsAssemblyInfo.cs
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 2\Ecommerce_Soluation\Ecommerce_G02.Web\obj\Debug\net9.0\Ecommerce_G02.Web.MvcApplicationPartsAssemblyInfo.cache
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 2\Ecommerce_Soluation\Ecommerce_G02.Web\obj\Debug\net9.0\Ecommerce_G02.Web.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 2\Ecommerce_Soluation\Ecommerce_G02.Web\obj\Debug\net9.0\refint\Ecommerce_G02.Web.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 2\Ecommerce_Soluation\Ecommerce_G02.Web\obj\Debug\net9.0\Ecommerce_G02.Web.pdb
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 2\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\appsettings.Development.json
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 2\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\appsettings.json
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 2\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Ecommerce_G02.Web.staticwebassets.endpoints.json
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 2\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Ecommerce_G02.Web.exe
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 2\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Ecommerce_G02.Web.deps.json
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 2\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Ecommerce_G02.Web.runtimeconfig.json
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 2\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Ecommerce_G02.Web.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 2\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Ecommerce_G02.Web.pdb
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 2\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Azure.Core.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 2\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Azure.Identity.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 2\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Humanizer.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 2\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 2\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 2\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 2\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 2\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 2\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 2\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 2\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 2\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 2\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 2\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 2\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 2\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 2\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 2\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 2\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 2\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 2\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 2\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 2\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 2\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 2\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 2\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 2\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 2\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Microsoft.OpenApi.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 2\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 2\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 2\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Mono.TextTemplating.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 2\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\System.ClientModel.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 2\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\System.CodeDom.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 2\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 2\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\System.Composition.Convention.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 2\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\System.Composition.Hosting.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 2\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\System.Composition.Runtime.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 2\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\System.Composition.TypedParts.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 2\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 2\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\System.Drawing.Common.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 2\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 2\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\System.Memory.Data.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 2\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\System.Runtime.Caching.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 2\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 2\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\System.Security.Permissions.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 2\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\System.Windows.Extensions.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 2\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 2\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 2\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 2\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 2\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 2\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 2\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 2\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 2\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 2\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 2\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 2\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 2\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 2\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 2\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 2\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 2\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 2\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 2\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 2\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 2\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 2\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 2\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 2\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 2\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 2\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 2\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 2\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 2\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 2\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 2\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 2\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 2\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 2\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 2\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 2\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 2\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 2\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 2\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 2\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 2\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 2\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 2\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 2\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 2\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 2\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 2\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 2\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 2\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 2\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 2\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 2\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 2\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 2\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 2\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 2\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 2\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 2\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 2\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 2\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 2\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 2\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 2\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 2\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 2\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 2\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 2\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 2\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 2\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 2\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 2\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 2\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 2\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 2\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 2\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 2\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 2\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 2\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Ecommerce_G02.Abstractions.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 2\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Ecommerce_G02.Domain.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 2\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Ecommerce_G02.Presentation.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 2\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Ecommerce_G02.Presistence.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 2\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Ecommerce_G02.Services.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 2\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Ecommerce_G02.Shared.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 2\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Ecommerce_G02.Presentation.pdb
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 2\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Ecommerce_G02.Presistence.pdb
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 2\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Ecommerce_G02.Abstractions.pdb
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 2\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Ecommerce_G02.Domain.pdb
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 2\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Ecommerce_G02.Services.pdb
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 2\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Ecommerce_G02.Shared.pdb
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 2\Ecommerce_Soluation\Ecommerce_G02.Web\obj\Debug\net9.0\rjimswa.dswa.cache.json
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 2\Ecommerce_Soluation\Ecommerce_G02.Web\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 2\Ecommerce_Soluation\Ecommerce_G02.Web\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 2\Ecommerce_Soluation\Ecommerce_G02.Web\obj\Debug\net9.0\scopedcss\bundle\Ecommerce_G02.Web.styles.css
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 2\Ecommerce_Soluation\Ecommerce_G02.Web\obj\Debug\net9.0\staticwebassets.build.json
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 2\Ecommerce_Soluation\Ecommerce_G02.Web\obj\Debug\net9.0\staticwebassets.build.json.cache
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 2\Ecommerce_Soluation\Ecommerce_G02.Web\obj\Debug\net9.0\staticwebassets.development.json
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 2\Ecommerce_Soluation\Ecommerce_G02.Web\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 2\Ecommerce_Soluation\Ecommerce_G02.Web\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 2\Ecommerce_Soluation\Ecommerce_G02.Web\obj\Debug\net9.0\Ecommerc.2D8A542C.Up2Date
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 2\Ecommerce_Soluation\Ecommerce_G02.Web\obj\Debug\net9.0\Ecommerce_G02.Web.genruntimeconfig.cache
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 2\Ecommerce_Soluation\Ecommerce_G02.Web\obj\Debug\net9.0\ref\Ecommerce_G02.Web.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 2\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\AutoMapper.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 3\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\appsettings.Development.json
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 3\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\appsettings.json
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 3\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Ecommerce_G02.Web.staticwebassets.endpoints.json
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 3\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Ecommerce_G02.Web.exe
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 3\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Ecommerce_G02.Web.deps.json
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 3\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Ecommerce_G02.Web.runtimeconfig.json
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 3\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Ecommerce_G02.Web.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 3\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Ecommerce_G02.Web.pdb
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 3\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\AutoMapper.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 3\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Azure.Core.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 3\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Azure.Identity.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 3\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Humanizer.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 3\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 3\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 3\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 3\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 3\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 3\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 3\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 3\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 3\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 3\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 3\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 3\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 3\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 3\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 3\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 3\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 3\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 3\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 3\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 3\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 3\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 3\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 3\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 3\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 3\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Microsoft.OpenApi.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 3\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 3\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 3\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Mono.TextTemplating.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 3\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\System.ClientModel.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 3\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\System.CodeDom.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 3\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 3\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\System.Composition.Convention.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 3\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\System.Composition.Hosting.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 3\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\System.Composition.Runtime.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 3\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\System.Composition.TypedParts.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 3\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 3\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\System.Drawing.Common.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 3\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 3\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\System.Memory.Data.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 3\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\System.Runtime.Caching.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 3\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 3\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\System.Security.Permissions.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 3\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\System.Windows.Extensions.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 3\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 3\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 3\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 3\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 3\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 3\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 3\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 3\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 3\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 3\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 3\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 3\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 3\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 3\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 3\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 3\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 3\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 3\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 3\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 3\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 3\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 3\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 3\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 3\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 3\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 3\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 3\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 3\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 3\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 3\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 3\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 3\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 3\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 3\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 3\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 3\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 3\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 3\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 3\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 3\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 3\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 3\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 3\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 3\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 3\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 3\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 3\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 3\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 3\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 3\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 3\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 3\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 3\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 3\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 3\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 3\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 3\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 3\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 3\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 3\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 3\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 3\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 3\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 3\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 3\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 3\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 3\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 3\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 3\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 3\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 3\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 3\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 3\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 3\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 3\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 3\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 3\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 3\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Ecommerce_G02.Abstractions.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 3\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Ecommerce_G02.Domain.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 3\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Ecommerce_G02.Presentation.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 3\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Ecommerce_G02.Presistence.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 3\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Ecommerce_G02.Services.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 3\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Ecommerce_G02.Shared.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 3\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Ecommerce_G02.Presentation.pdb
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 3\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Ecommerce_G02.Presistence.pdb
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 3\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Ecommerce_G02.Abstractions.pdb
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 3\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Ecommerce_G02.Domain.pdb
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 3\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Ecommerce_G02.Services.pdb
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 3\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Ecommerce_G02.Shared.pdb
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 3\Ecommerce_Soluation\Ecommerce_G02.Web\obj\Debug\net9.0\Ecommerce_G02.Web.csproj.AssemblyReference.cache
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 3\Ecommerce_Soluation\Ecommerce_G02.Web\obj\Debug\net9.0\rpswa.dswa.cache.json
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 3\Ecommerce_Soluation\Ecommerce_G02.Web\obj\Debug\net9.0\Ecommerce_G02.Web.GeneratedMSBuildEditorConfig.editorconfig
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 3\Ecommerce_Soluation\Ecommerce_G02.Web\obj\Debug\net9.0\Ecommerce_G02.Web.AssemblyInfoInputs.cache
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 3\Ecommerce_Soluation\Ecommerce_G02.Web\obj\Debug\net9.0\Ecommerce_G02.Web.AssemblyInfo.cs
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 3\Ecommerce_Soluation\Ecommerce_G02.Web\obj\Debug\net9.0\Ecommerce_G02.Web.csproj.CoreCompileInputs.cache
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 3\Ecommerce_Soluation\Ecommerce_G02.Web\obj\Debug\net9.0\Ecommerce_G02.Web.MvcApplicationPartsAssemblyInfo.cs
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 3\Ecommerce_Soluation\Ecommerce_G02.Web\obj\Debug\net9.0\Ecommerce_G02.Web.MvcApplicationPartsAssemblyInfo.cache
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 3\Ecommerce_Soluation\Ecommerce_G02.Web\obj\Debug\net9.0\rjimswa.dswa.cache.json
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 3\Ecommerce_Soluation\Ecommerce_G02.Web\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 3\Ecommerce_Soluation\Ecommerce_G02.Web\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 3\Ecommerce_Soluation\Ecommerce_G02.Web\obj\Debug\net9.0\scopedcss\bundle\Ecommerce_G02.Web.styles.css
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 3\Ecommerce_Soluation\Ecommerce_G02.Web\obj\Debug\net9.0\staticwebassets.build.json
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 3\Ecommerce_Soluation\Ecommerce_G02.Web\obj\Debug\net9.0\staticwebassets.build.json.cache
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 3\Ecommerce_Soluation\Ecommerce_G02.Web\obj\Debug\net9.0\staticwebassets.development.json
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 3\Ecommerce_Soluation\Ecommerce_G02.Web\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 3\Ecommerce_Soluation\Ecommerce_G02.Web\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 3\Ecommerce_Soluation\Ecommerce_G02.Web\obj\Debug\net9.0\Ecommerc.2D8A542C.Up2Date
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 3\Ecommerce_Soluation\Ecommerce_G02.Web\obj\Debug\net9.0\Ecommerce_G02.Web.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 3\Ecommerce_Soluation\Ecommerce_G02.Web\obj\Debug\net9.0\refint\Ecommerce_G02.Web.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 3\Ecommerce_Soluation\Ecommerce_G02.Web\obj\Debug\net9.0\Ecommerce_G02.Web.pdb
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 3\Ecommerce_Soluation\Ecommerce_G02.Web\obj\Debug\net9.0\Ecommerce_G02.Web.genruntimeconfig.cache
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 3\Ecommerce_Soluation\Ecommerce_G02.Web\obj\Debug\net9.0\ref\Ecommerce_G02.Web.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 4\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\appsettings.Development.json
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 4\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\appsettings.json
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 4\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Ecommerce_G02.Web.staticwebassets.endpoints.json
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 4\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Ecommerce_G02.Web.exe
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 4\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Ecommerce_G02.Web.deps.json
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 4\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Ecommerce_G02.Web.runtimeconfig.json
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 4\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Ecommerce_G02.Web.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 4\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Ecommerce_G02.Web.pdb
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 4\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\AutoMapper.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 4\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Azure.Core.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 4\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Azure.Identity.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 4\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Humanizer.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 4\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 4\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 4\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 4\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 4\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 4\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 4\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 4\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 4\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 4\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 4\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 4\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 4\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 4\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 4\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 4\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 4\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 4\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 4\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 4\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 4\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 4\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 4\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 4\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 4\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Microsoft.OpenApi.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 4\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 4\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 4\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Mono.TextTemplating.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 4\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\System.ClientModel.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 4\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\System.CodeDom.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 4\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 4\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\System.Composition.Convention.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 4\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\System.Composition.Hosting.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 4\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\System.Composition.Runtime.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 4\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\System.Composition.TypedParts.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 4\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 4\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\System.Drawing.Common.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 4\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 4\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\System.Memory.Data.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 4\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\System.Runtime.Caching.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 4\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 4\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\System.Security.Permissions.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 4\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\System.Windows.Extensions.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 4\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 4\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 4\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 4\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 4\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 4\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 4\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 4\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 4\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 4\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 4\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 4\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 4\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 4\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 4\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 4\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 4\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 4\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 4\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 4\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 4\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 4\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 4\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 4\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 4\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 4\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 4\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 4\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 4\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 4\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 4\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 4\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 4\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 4\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 4\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 4\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 4\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 4\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 4\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 4\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 4\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 4\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 4\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 4\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 4\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 4\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 4\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 4\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 4\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 4\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 4\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 4\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 4\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 4\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 4\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 4\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 4\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 4\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 4\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 4\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 4\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 4\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 4\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 4\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 4\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 4\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 4\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 4\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 4\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 4\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 4\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 4\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 4\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 4\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 4\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 4\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 4\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 4\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Ecommerce_G02.Abstractions.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 4\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Ecommerce_G02.Domain.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 4\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Ecommerce_G02.Presentation.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 4\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Ecommerce_G02.Presistence.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 4\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Ecommerce_G02.Services.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 4\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Ecommerce_G02.Shared.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 4\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Ecommerce_G02.Presentation.pdb
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 4\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Ecommerce_G02.Presistence.pdb
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 4\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Ecommerce_G02.Abstractions.pdb
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 4\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Ecommerce_G02.Domain.pdb
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 4\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Ecommerce_G02.Services.pdb
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 4\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Ecommerce_G02.Shared.pdb
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 4\Ecommerce_Soluation\Ecommerce_G02.Web\obj\Debug\net9.0\Ecommerce_G02.Web.csproj.AssemblyReference.cache
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 4\Ecommerce_Soluation\Ecommerce_G02.Web\obj\Debug\net9.0\rpswa.dswa.cache.json
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 4\Ecommerce_Soluation\Ecommerce_G02.Web\obj\Debug\net9.0\Ecommerce_G02.Web.GeneratedMSBuildEditorConfig.editorconfig
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 4\Ecommerce_Soluation\Ecommerce_G02.Web\obj\Debug\net9.0\Ecommerce_G02.Web.AssemblyInfoInputs.cache
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 4\Ecommerce_Soluation\Ecommerce_G02.Web\obj\Debug\net9.0\Ecommerce_G02.Web.AssemblyInfo.cs
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 4\Ecommerce_Soluation\Ecommerce_G02.Web\obj\Debug\net9.0\Ecommerce_G02.Web.csproj.CoreCompileInputs.cache
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 4\Ecommerce_Soluation\Ecommerce_G02.Web\obj\Debug\net9.0\Ecommerce_G02.Web.MvcApplicationPartsAssemblyInfo.cs
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 4\Ecommerce_Soluation\Ecommerce_G02.Web\obj\Debug\net9.0\Ecommerce_G02.Web.MvcApplicationPartsAssemblyInfo.cache
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 4\Ecommerce_Soluation\Ecommerce_G02.Web\obj\Debug\net9.0\rjimswa.dswa.cache.json
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 4\Ecommerce_Soluation\Ecommerce_G02.Web\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 4\Ecommerce_Soluation\Ecommerce_G02.Web\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 4\Ecommerce_Soluation\Ecommerce_G02.Web\obj\Debug\net9.0\scopedcss\bundle\Ecommerce_G02.Web.styles.css
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 4\Ecommerce_Soluation\Ecommerce_G02.Web\obj\Debug\net9.0\staticwebassets.build.json
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 4\Ecommerce_Soluation\Ecommerce_G02.Web\obj\Debug\net9.0\staticwebassets.build.json.cache
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 4\Ecommerce_Soluation\Ecommerce_G02.Web\obj\Debug\net9.0\staticwebassets.development.json
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 4\Ecommerce_Soluation\Ecommerce_G02.Web\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 4\Ecommerce_Soluation\Ecommerce_G02.Web\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 4\Ecommerce_Soluation\Ecommerce_G02.Web\obj\Debug\net9.0\Ecommerc.2D8A542C.Up2Date
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 4\Ecommerce_Soluation\Ecommerce_G02.Web\obj\Debug\net9.0\Ecommerce_G02.Web.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 4\Ecommerce_Soluation\Ecommerce_G02.Web\obj\Debug\net9.0\refint\Ecommerce_G02.Web.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 4\Ecommerce_Soluation\Ecommerce_G02.Web\obj\Debug\net9.0\Ecommerce_G02.Web.pdb
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 4\Ecommerce_Soluation\Ecommerce_G02.Web\obj\Debug\net9.0\Ecommerce_G02.Web.genruntimeconfig.cache
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 4\Ecommerce_Soluation\Ecommerce_G02.Web\obj\Debug\net9.0\ref\Ecommerce_G02.Web.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 5\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\appsettings.Development.json
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 5\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Ecommerce_G02.Web.staticwebassets.endpoints.json
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 5\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\appsettings.json
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 5\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Ecommerce_G02.Web.exe
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 5\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Ecommerce_G02.Web.deps.json
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 5\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Ecommerce_G02.Web.runtimeconfig.json
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 5\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Ecommerce_G02.Web.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 5\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Ecommerce_G02.Web.pdb
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 5\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\AutoMapper.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 5\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Azure.Core.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 5\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Azure.Identity.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 5\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Humanizer.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 5\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 5\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 5\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 5\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 5\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 5\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 5\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 5\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 5\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 5\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 5\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 5\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 5\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 5\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 5\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 5\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 5\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 5\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 5\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 5\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 5\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 5\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 5\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 5\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 5\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Microsoft.OpenApi.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 5\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 5\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 5\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Mono.TextTemplating.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 5\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Pipelines.Sockets.Unofficial.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 5\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\StackExchange.Redis.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 5\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\System.ClientModel.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 5\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\System.CodeDom.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 5\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 5\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\System.Composition.Convention.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 5\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\System.Composition.Hosting.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 5\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\System.Composition.Runtime.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 5\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\System.Composition.TypedParts.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 5\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 5\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\System.Drawing.Common.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 5\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 5\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\System.Memory.Data.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 5\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\System.Runtime.Caching.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 5\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 5\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\System.Security.Permissions.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 5\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\System.Windows.Extensions.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 5\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 5\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 5\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 5\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 5\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 5\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 5\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 5\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 5\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 5\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 5\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 5\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 5\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 5\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 5\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 5\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 5\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 5\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 5\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 5\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 5\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 5\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 5\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 5\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 5\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 5\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 5\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 5\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 5\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 5\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 5\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 5\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 5\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 5\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 5\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 5\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 5\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 5\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 5\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 5\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 5\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 5\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 5\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 5\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 5\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 5\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 5\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 5\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 5\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 5\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 5\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 5\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 5\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 5\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 5\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 5\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 5\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 5\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 5\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 5\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 5\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 5\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 5\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 5\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 5\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 5\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 5\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 5\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 5\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 5\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 5\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 5\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 5\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 5\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 5\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 5\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 5\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 5\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Ecommerce_G02.Abstractions.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 5\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Ecommerce_G02.Domain.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 5\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Ecommerce_G02.Presentation.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 5\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Ecommerce_G02.Presistence.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 5\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Ecommerce_G02.Services.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 5\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Ecommerce_G02.Shared.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 5\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Ecommerce_G02.Presentation.pdb
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 5\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Ecommerce_G02.Presistence.pdb
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 5\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Ecommerce_G02.Abstractions.pdb
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 5\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Ecommerce_G02.Domain.pdb
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 5\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Ecommerce_G02.Services.pdb
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 5\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Ecommerce_G02.Shared.pdb
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 5\Ecommerce_Soluation\Ecommerce_G02.Web\obj\Debug\net9.0\Ecommerce_G02.Web.csproj.AssemblyReference.cache
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 5\Ecommerce_Soluation\Ecommerce_G02.Web\obj\Debug\net9.0\rpswa.dswa.cache.json
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 5\Ecommerce_Soluation\Ecommerce_G02.Web\obj\Debug\net9.0\Ecommerce_G02.Web.GeneratedMSBuildEditorConfig.editorconfig
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 5\Ecommerce_Soluation\Ecommerce_G02.Web\obj\Debug\net9.0\Ecommerce_G02.Web.AssemblyInfoInputs.cache
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 5\Ecommerce_Soluation\Ecommerce_G02.Web\obj\Debug\net9.0\Ecommerce_G02.Web.AssemblyInfo.cs
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 5\Ecommerce_Soluation\Ecommerce_G02.Web\obj\Debug\net9.0\Ecommerce_G02.Web.csproj.CoreCompileInputs.cache
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 5\Ecommerce_Soluation\Ecommerce_G02.Web\obj\Debug\net9.0\Ecommerce_G02.Web.MvcApplicationPartsAssemblyInfo.cs
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 5\Ecommerce_Soluation\Ecommerce_G02.Web\obj\Debug\net9.0\Ecommerce_G02.Web.MvcApplicationPartsAssemblyInfo.cache
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 5\Ecommerce_Soluation\Ecommerce_G02.Web\obj\Debug\net9.0\rjimswa.dswa.cache.json
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 5\Ecommerce_Soluation\Ecommerce_G02.Web\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 5\Ecommerce_Soluation\Ecommerce_G02.Web\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 5\Ecommerce_Soluation\Ecommerce_G02.Web\obj\Debug\net9.0\scopedcss\bundle\Ecommerce_G02.Web.styles.css
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 5\Ecommerce_Soluation\Ecommerce_G02.Web\obj\Debug\net9.0\staticwebassets.build.json
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 5\Ecommerce_Soluation\Ecommerce_G02.Web\obj\Debug\net9.0\staticwebassets.build.json.cache
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 5\Ecommerce_Soluation\Ecommerce_G02.Web\obj\Debug\net9.0\staticwebassets.development.json
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 5\Ecommerce_Soluation\Ecommerce_G02.Web\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 5\Ecommerce_Soluation\Ecommerce_G02.Web\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 5\Ecommerce_Soluation\Ecommerce_G02.Web\obj\Debug\net9.0\Ecommerc.2D8A542C.Up2Date
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 5\Ecommerce_Soluation\Ecommerce_G02.Web\obj\Debug\net9.0\Ecommerce_G02.Web.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 5\Ecommerce_Soluation\Ecommerce_G02.Web\obj\Debug\net9.0\refint\Ecommerce_G02.Web.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 5\Ecommerce_Soluation\Ecommerce_G02.Web\obj\Debug\net9.0\Ecommerce_G02.Web.pdb
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 5\Ecommerce_Soluation\Ecommerce_G02.Web\obj\Debug\net9.0\Ecommerce_G02.Web.genruntimeconfig.cache
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 5\Ecommerce_Soluation\Ecommerce_G02.Web\obj\Debug\net9.0\ref\Ecommerce_G02.Web.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 5\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 6\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\appsettings.Development.json
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 6\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\appsettings.json
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 6\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Ecommerce_G02.Web.staticwebassets.endpoints.json
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 6\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Ecommerce_G02.Web.exe
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 6\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Ecommerce_G02.Web.deps.json
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 6\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Ecommerce_G02.Web.runtimeconfig.json
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 6\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Ecommerce_G02.Web.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 6\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Ecommerce_G02.Web.pdb
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 6\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\AutoMapper.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 6\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Azure.Core.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 6\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Azure.Identity.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 6\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Humanizer.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 6\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 6\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 6\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 6\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 6\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 6\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 6\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 6\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 6\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 6\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 6\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 6\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 6\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 6\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 6\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 6\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 6\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 6\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 6\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 6\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 6\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 6\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 6\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 6\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 6\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 6\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Microsoft.OpenApi.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 6\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 6\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 6\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Mono.TextTemplating.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 6\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Pipelines.Sockets.Unofficial.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 6\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\StackExchange.Redis.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 6\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\System.ClientModel.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 6\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\System.CodeDom.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 6\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 6\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\System.Composition.Convention.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 6\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\System.Composition.Hosting.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 6\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\System.Composition.Runtime.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 6\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\System.Composition.TypedParts.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 6\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 6\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\System.Drawing.Common.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 6\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 6\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\System.Memory.Data.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 6\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\System.Runtime.Caching.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 6\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 6\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\System.Security.Permissions.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 6\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\System.Windows.Extensions.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 6\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 6\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 6\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 6\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 6\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 6\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 6\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 6\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 6\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 6\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 6\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 6\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 6\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 6\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 6\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 6\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 6\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 6\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 6\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 6\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 6\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 6\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 6\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 6\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 6\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 6\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 6\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 6\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 6\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 6\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 6\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 6\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 6\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 6\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 6\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 6\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 6\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 6\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 6\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 6\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 6\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 6\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 6\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 6\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 6\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 6\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 6\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 6\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 6\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 6\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 6\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 6\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 6\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 6\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 6\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 6\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 6\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 6\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 6\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 6\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 6\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 6\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 6\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 6\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 6\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 6\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 6\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 6\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 6\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 6\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 6\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 6\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 6\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 6\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 6\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 6\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 6\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 6\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Ecommerce_G02.Abstractions.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 6\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Ecommerce_G02.Domain.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 6\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Ecommerce_G02.Presentation.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 6\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Ecommerce_G02.Presistence.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 6\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Ecommerce_G02.Services.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 6\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Ecommerce_G02.Shared.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 6\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Ecommerce_G02.Presentation.pdb
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 6\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Ecommerce_G02.Presistence.pdb
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 6\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Ecommerce_G02.Abstractions.pdb
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 6\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Ecommerce_G02.Domain.pdb
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 6\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Ecommerce_G02.Services.pdb
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 6\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Ecommerce_G02.Shared.pdb
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 6\Ecommerce_Soluation\Ecommerce_G02.Web\obj\Debug\net9.0\Ecommerce_G02.Web.csproj.AssemblyReference.cache
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 6\Ecommerce_Soluation\Ecommerce_G02.Web\obj\Debug\net9.0\rpswa.dswa.cache.json
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 6\Ecommerce_Soluation\Ecommerce_G02.Web\obj\Debug\net9.0\Ecommerce_G02.Web.GeneratedMSBuildEditorConfig.editorconfig
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 6\Ecommerce_Soluation\Ecommerce_G02.Web\obj\Debug\net9.0\Ecommerce_G02.Web.AssemblyInfoInputs.cache
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 6\Ecommerce_Soluation\Ecommerce_G02.Web\obj\Debug\net9.0\Ecommerce_G02.Web.AssemblyInfo.cs
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 6\Ecommerce_Soluation\Ecommerce_G02.Web\obj\Debug\net9.0\Ecommerce_G02.Web.csproj.CoreCompileInputs.cache
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 6\Ecommerce_Soluation\Ecommerce_G02.Web\obj\Debug\net9.0\Ecommerce_G02.Web.MvcApplicationPartsAssemblyInfo.cs
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 6\Ecommerce_Soluation\Ecommerce_G02.Web\obj\Debug\net9.0\Ecommerce_G02.Web.MvcApplicationPartsAssemblyInfo.cache
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 6\Ecommerce_Soluation\Ecommerce_G02.Web\obj\Debug\net9.0\rjimswa.dswa.cache.json
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 6\Ecommerce_Soluation\Ecommerce_G02.Web\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 6\Ecommerce_Soluation\Ecommerce_G02.Web\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 6\Ecommerce_Soluation\Ecommerce_G02.Web\obj\Debug\net9.0\scopedcss\bundle\Ecommerce_G02.Web.styles.css
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 6\Ecommerce_Soluation\Ecommerce_G02.Web\obj\Debug\net9.0\staticwebassets.build.json
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 6\Ecommerce_Soluation\Ecommerce_G02.Web\obj\Debug\net9.0\staticwebassets.build.json.cache
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 6\Ecommerce_Soluation\Ecommerce_G02.Web\obj\Debug\net9.0\staticwebassets.development.json
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 6\Ecommerce_Soluation\Ecommerce_G02.Web\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 6\Ecommerce_Soluation\Ecommerce_G02.Web\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 6\Ecommerce_Soluation\Ecommerce_G02.Web\obj\Debug\net9.0\Ecommerc.2D8A542C.Up2Date
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 6\Ecommerce_Soluation\Ecommerce_G02.Web\obj\Debug\net9.0\Ecommerce_G02.Web.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 6\Ecommerce_Soluation\Ecommerce_G02.Web\obj\Debug\net9.0\refint\Ecommerce_G02.Web.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 6\Ecommerce_Soluation\Ecommerce_G02.Web\obj\Debug\net9.0\Ecommerce_G02.Web.pdb
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 6\Ecommerce_Soluation\Ecommerce_G02.Web\obj\Debug\net9.0\Ecommerce_G02.Web.genruntimeconfig.cache
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 6\Ecommerce_Soluation\Ecommerce_G02.Web\obj\Debug\net9.0\ref\Ecommerce_G02.Web.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 6\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 7\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\appsettings.Development.json
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 7\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\appsettings.json
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 7\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Ecommerce_G02.Web.staticwebassets.endpoints.json
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 7\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Ecommerce_G02.Web.exe
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 7\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Ecommerce_G02.Web.deps.json
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 7\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Ecommerce_G02.Web.runtimeconfig.json
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 7\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Ecommerce_G02.Web.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 7\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Ecommerce_G02.Web.pdb
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 7\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\AutoMapper.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 7\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Azure.Core.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 7\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Azure.Identity.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 7\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Humanizer.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 7\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 7\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 7\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 7\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 7\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 7\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 7\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 7\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 7\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 7\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 7\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 7\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 7\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 7\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 7\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 7\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 7\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 7\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 7\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 7\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 7\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 7\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 7\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 7\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 7\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 7\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 7\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Microsoft.OpenApi.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 7\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 7\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 7\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Mono.TextTemplating.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 7\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Pipelines.Sockets.Unofficial.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 7\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\StackExchange.Redis.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 7\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\System.ClientModel.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 7\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\System.CodeDom.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 7\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 7\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\System.Composition.Convention.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 7\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\System.Composition.Hosting.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 7\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\System.Composition.Runtime.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 7\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\System.Composition.TypedParts.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 7\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 7\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\System.Drawing.Common.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 7\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 7\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\System.Memory.Data.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 7\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\System.Runtime.Caching.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 7\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 7\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\System.Security.Permissions.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 7\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\System.Windows.Extensions.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 7\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 7\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 7\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 7\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 7\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 7\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 7\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 7\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 7\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 7\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 7\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 7\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 7\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 7\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 7\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 7\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 7\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 7\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 7\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 7\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 7\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 7\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 7\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 7\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 7\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 7\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 7\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 7\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 7\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 7\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 7\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 7\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 7\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 7\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 7\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 7\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 7\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 7\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 7\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 7\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 7\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 7\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 7\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 7\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 7\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 7\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 7\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 7\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 7\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 7\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 7\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 7\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 7\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 7\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 7\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 7\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 7\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 7\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 7\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 7\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 7\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 7\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 7\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 7\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 7\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 7\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 7\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 7\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 7\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 7\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 7\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 7\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 7\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 7\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 7\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 7\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 7\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 7\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Ecommerce_G02.Abstractions.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 7\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Ecommerce_G02.Domain.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 7\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Ecommerce_G02.Presentation.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 7\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Ecommerce_G02.Presistence.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 7\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Ecommerce_G02.Services.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 7\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Ecommerce_G02.Shared.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 7\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Ecommerce_G02.Presentation.pdb
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 7\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Ecommerce_G02.Presistence.pdb
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 7\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Ecommerce_G02.Abstractions.pdb
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 7\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Ecommerce_G02.Domain.pdb
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 7\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Ecommerce_G02.Services.pdb
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 7\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Ecommerce_G02.Shared.pdb
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 7\Ecommerce_Soluation\Ecommerce_G02.Web\obj\Debug\net9.0\Ecommerce_G02.Web.csproj.AssemblyReference.cache
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 7\Ecommerce_Soluation\Ecommerce_G02.Web\obj\Debug\net9.0\rpswa.dswa.cache.json
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 7\Ecommerce_Soluation\Ecommerce_G02.Web\obj\Debug\net9.0\Ecommerce_G02.Web.GeneratedMSBuildEditorConfig.editorconfig
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 7\Ecommerce_Soluation\Ecommerce_G02.Web\obj\Debug\net9.0\Ecommerce_G02.Web.AssemblyInfoInputs.cache
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 7\Ecommerce_Soluation\Ecommerce_G02.Web\obj\Debug\net9.0\Ecommerce_G02.Web.AssemblyInfo.cs
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 7\Ecommerce_Soluation\Ecommerce_G02.Web\obj\Debug\net9.0\Ecommerce_G02.Web.csproj.CoreCompileInputs.cache
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 7\Ecommerce_Soluation\Ecommerce_G02.Web\obj\Debug\net9.0\Ecommerce_G02.Web.MvcApplicationPartsAssemblyInfo.cs
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 7\Ecommerce_Soluation\Ecommerce_G02.Web\obj\Debug\net9.0\Ecommerce_G02.Web.MvcApplicationPartsAssemblyInfo.cache
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 7\Ecommerce_Soluation\Ecommerce_G02.Web\obj\Debug\net9.0\rjimswa.dswa.cache.json
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 7\Ecommerce_Soluation\Ecommerce_G02.Web\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 7\Ecommerce_Soluation\Ecommerce_G02.Web\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 7\Ecommerce_Soluation\Ecommerce_G02.Web\obj\Debug\net9.0\scopedcss\bundle\Ecommerce_G02.Web.styles.css
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 7\Ecommerce_Soluation\Ecommerce_G02.Web\obj\Debug\net9.0\staticwebassets.build.json
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 7\Ecommerce_Soluation\Ecommerce_G02.Web\obj\Debug\net9.0\staticwebassets.build.json.cache
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 7\Ecommerce_Soluation\Ecommerce_G02.Web\obj\Debug\net9.0\staticwebassets.development.json
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 7\Ecommerce_Soluation\Ecommerce_G02.Web\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 7\Ecommerce_Soluation\Ecommerce_G02.Web\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 7\Ecommerce_Soluation\Ecommerce_G02.Web\obj\Debug\net9.0\Ecommerc.2D8A542C.Up2Date
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 7\Ecommerce_Soluation\Ecommerce_G02.Web\obj\Debug\net9.0\Ecommerce_G02.Web.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 7\Ecommerce_Soluation\Ecommerce_G02.Web\obj\Debug\net9.0\refint\Ecommerce_G02.Web.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 7\Ecommerce_Soluation\Ecommerce_G02.Web\obj\Debug\net9.0\Ecommerce_G02.Web.pdb
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 7\Ecommerce_Soluation\Ecommerce_G02.Web\obj\Debug\net9.0\Ecommerce_G02.Web.genruntimeconfig.cache
+E:\ASP.NET Course\Asp.NET Core Web APIs\Session 7\Ecommerce_Soluation\Ecommerce_G02.Web\obj\Debug\net9.0\ref\Ecommerce_G02.Web.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Final\Ecommerce_Soluation\Ecommerce_G02.Web\obj\Debug\net9.0\Ecommerce_G02.Web.csproj.AssemblyReference.cache
+E:\ASP.NET Course\Asp.NET Core Web APIs\Final\Ecommerce_Soluation\Ecommerce_G02.Web\obj\Debug\net9.0\rpswa.dswa.cache.json
+E:\ASP.NET Course\Asp.NET Core Web APIs\Final\Ecommerce_Soluation\Ecommerce_G02.Web\obj\Debug\net9.0\Ecommerce_G02.Web.GeneratedMSBuildEditorConfig.editorconfig
+E:\ASP.NET Course\Asp.NET Core Web APIs\Final\Ecommerce_Soluation\Ecommerce_G02.Web\obj\Debug\net9.0\Ecommerce_G02.Web.AssemblyInfoInputs.cache
+E:\ASP.NET Course\Asp.NET Core Web APIs\Final\Ecommerce_Soluation\Ecommerce_G02.Web\obj\Debug\net9.0\Ecommerce_G02.Web.AssemblyInfo.cs
+E:\ASP.NET Course\Asp.NET Core Web APIs\Final\Ecommerce_Soluation\Ecommerce_G02.Web\obj\Debug\net9.0\Ecommerce_G02.Web.csproj.CoreCompileInputs.cache
+E:\ASP.NET Course\Asp.NET Core Web APIs\Final\Ecommerce_Soluation\Ecommerce_G02.Web\obj\Debug\net9.0\Ecommerce_G02.Web.MvcApplicationPartsAssemblyInfo.cs
+E:\ASP.NET Course\Asp.NET Core Web APIs\Final\Ecommerce_Soluation\Ecommerce_G02.Web\obj\Debug\net9.0\Ecommerce_G02.Web.MvcApplicationPartsAssemblyInfo.cache
+E:\ASP.NET Course\Asp.NET Core Web APIs\Final\Ecommerce_Soluation\Ecommerce_G02.Web\obj\Debug\net9.0\Ecommerce_G02.Web.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Final\Ecommerce_Soluation\Ecommerce_G02.Web\obj\Debug\net9.0\refint\Ecommerce_G02.Web.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Final\Ecommerce_Soluation\Ecommerce_G02.Web\obj\Debug\net9.0\Ecommerce_G02.Web.pdb
+E:\ASP.NET Course\Asp.NET Core Web APIs\Final\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\appsettings.Development.json
+E:\ASP.NET Course\Asp.NET Core Web APIs\Final\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Ecommerce_G02.Web.staticwebassets.endpoints.json
+E:\ASP.NET Course\Asp.NET Core Web APIs\Final\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\appsettings.json
+E:\ASP.NET Course\Asp.NET Core Web APIs\Final\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Ecommerce_G02.Web.exe
+E:\ASP.NET Course\Asp.NET Core Web APIs\Final\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Ecommerce_G02.Web.deps.json
+E:\ASP.NET Course\Asp.NET Core Web APIs\Final\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Ecommerce_G02.Web.runtimeconfig.json
+E:\ASP.NET Course\Asp.NET Core Web APIs\Final\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Ecommerce_G02.Web.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Final\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Ecommerce_G02.Web.pdb
+E:\ASP.NET Course\Asp.NET Core Web APIs\Final\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\AutoMapper.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Final\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Azure.Core.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Final\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Azure.Identity.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Final\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Humanizer.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Final\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Final\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Final\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Final\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Final\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Final\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Final\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Final\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Final\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Final\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Final\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Final\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Final\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Final\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Final\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Final\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Final\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Final\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Final\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Final\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Final\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Final\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Final\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Final\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Final\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Final\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Final\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Microsoft.OpenApi.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Final\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Final\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Mono.TextTemplating.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Final\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Newtonsoft.Json.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Final\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Pipelines.Sockets.Unofficial.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Final\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\StackExchange.Redis.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Final\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Stripe.net.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Final\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\System.ClientModel.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Final\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\System.CodeDom.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Final\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Final\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\System.Composition.Convention.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Final\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\System.Composition.Hosting.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Final\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\System.Composition.Runtime.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Final\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\System.Composition.TypedParts.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Final\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Final\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Final\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\System.Memory.Data.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Final\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\System.Runtime.Caching.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Final\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Final\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Final\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Final\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Final\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Final\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Final\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Final\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Final\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Final\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Final\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Final\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Final\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Final\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Final\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Final\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Final\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Final\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Final\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Final\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Final\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Final\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Final\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Final\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Final\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Final\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Final\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Final\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Final\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Final\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Final\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Final\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Final\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Final\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Final\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Final\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Final\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Final\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Final\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Final\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Final\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Final\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Final\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Final\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Final\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Final\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Final\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Final\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Final\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Final\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Final\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Final\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Final\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Final\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Final\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Final\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Final\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Final\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Final\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Final\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Final\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Final\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Final\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Final\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Final\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Final\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Final\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Final\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Final\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Final\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Final\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Final\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Final\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Final\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Ecommerce_G02.Abstractions.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Final\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Ecommerce_G02.Domain.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Final\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Ecommerce_G02.Presentation.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Final\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Ecommerce_G02.Presistence.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Final\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Ecommerce_G02.Services.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Final\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Ecommerce_G02.Shared.dll
+E:\ASP.NET Course\Asp.NET Core Web APIs\Final\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Ecommerce_G02.Presentation.pdb
+E:\ASP.NET Course\Asp.NET Core Web APIs\Final\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Ecommerce_G02.Presistence.pdb
+E:\ASP.NET Course\Asp.NET Core Web APIs\Final\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Ecommerce_G02.Abstractions.pdb
+E:\ASP.NET Course\Asp.NET Core Web APIs\Final\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Ecommerce_G02.Domain.pdb
+E:\ASP.NET Course\Asp.NET Core Web APIs\Final\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Ecommerce_G02.Services.pdb
+E:\ASP.NET Course\Asp.NET Core Web APIs\Final\Ecommerce_Soluation\Ecommerce_G02.Web\bin\Debug\net9.0\Ecommerce_G02.Shared.pdb
+E:\ASP.NET Course\Asp.NET Core Web APIs\Final\Ecommerce_Soluation\Ecommerce_G02.Web\obj\Debug\net9.0\rjimswa.dswa.cache.json
+E:\ASP.NET Course\Asp.NET Core Web APIs\Final\Ecommerce_Soluation\Ecommerce_G02.Web\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+E:\ASP.NET Course\Asp.NET Core Web APIs\Final\Ecommerce_Soluation\Ecommerce_G02.Web\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+E:\ASP.NET Course\Asp.NET Core Web APIs\Final\Ecommerce_Soluation\Ecommerce_G02.Web\obj\Debug\net9.0\scopedcss\bundle\Ecommerce_G02.Web.styles.css
+E:\ASP.NET Course\Asp.NET Core Web APIs\Final\Ecommerce_Soluation\Ecommerce_G02.Web\obj\Debug\net9.0\staticwebassets.build.json
+E:\ASP.NET Course\Asp.NET Core Web APIs\Final\Ecommerce_Soluation\Ecommerce_G02.Web\obj\Debug\net9.0\staticwebassets.build.json.cache
+E:\ASP.NET Course\Asp.NET Core Web APIs\Final\Ecommerce_Soluation\Ecommerce_G02.Web\obj\Debug\net9.0\staticwebassets.development.json
+E:\ASP.NET Course\Asp.NET Core Web APIs\Final\Ecommerce_Soluation\Ecommerce_G02.Web\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+E:\ASP.NET Course\Asp.NET Core Web APIs\Final\Ecommerce_Soluation\Ecommerce_G02.Web\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+E:\ASP.NET Course\Asp.NET Core Web APIs\Final\Ecommerce_Soluation\Ecommerce_G02.Web\obj\Debug\net9.0\Ecommerc.2D8A542C.Up2Date
+E:\ASP.NET Course\Asp.NET Core Web APIs\Final\Ecommerce_Soluation\Ecommerce_G02.Web\obj\Debug\net9.0\Ecommerce_G02.Web.genruntimeconfig.cache
+E:\ASP.NET Course\Asp.NET Core Web APIs\Final\Ecommerce_Soluation\Ecommerce_G02.Web\obj\Debug\net9.0\ref\Ecommerce_G02.Web.dll
